@@ -1,0 +1,30 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "The first official Test match was played between Australia and England in 1877."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "India won the ICC Men's T20 World Cup in 2024."
+  },
+  {
+    "sport": "Football",
+    "fact": "Argentina won the FIFA World Cup in 2022."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup was first held in 1930."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "India won the Thomas Cup in 2022."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 2024."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Wimbledon is the oldest tennis tournament in the world."
+  }
+]
